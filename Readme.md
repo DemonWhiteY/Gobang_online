@@ -23,4 +23,9 @@ out文件下，一直往里点，可以看到Server文件夹和Client文件夹�
 注意，要先打开服务端文件，再打开客户端文件，由于是联机游戏，最少需要打开两次客户端才能相互邀请正常游戏。
 
 ### 相关博客连接
+<https://demonwhite.one/2023/12/23/JAVA%E8%81%94%E6%9C%BA%E4%BA%94%E5%AD%90%E6%A3%8B%EF%BC%88%E4%B8%80%EF%BC%89/>
+
+百度网盘 链接：https://pan.baidu.com/s/1c7dflsJ9Q-Scg-0DVgOdkg?pwd=YYDS
+提取码：YYDS
+–来自百度网盘超级会员V3的分享
 
